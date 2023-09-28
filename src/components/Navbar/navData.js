@@ -17,7 +17,7 @@ export const socialLinks = [
   },
   {
     label: 'Figma',
-    url: 'https://www.linkedin.com/in/cedzlabs',
+    url: 'https://cedzlabs.com',
     icon: 'figma',
   },
   {
