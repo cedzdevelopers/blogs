@@ -12,17 +12,17 @@ export const navLinks = [
 export const socialLinks = [
   {
     label: 'Twitter',
-    url: 'https://twitter.com/yakkshit',
+    url: 'https://twitter.com/cedzlabs',
     icon: 'twitter',
   },
   {
     label: 'Figma',
-    url: 'https://www.linkedin.com/in/yakkshit',
+    url: 'https://www.linkedin.com/in/cedzlabs',
     icon: 'figma',
   },
   {
     label: 'Github',
-    url: 'https://github.com/yakkshit',
+    url: 'https://github.com/cedzlabs',
     icon: 'github',
   },
 ];
